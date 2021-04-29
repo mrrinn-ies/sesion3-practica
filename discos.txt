@@ -4,4 +4,3 @@ Jagged Little Pill
 Disco1
 Disco2
 Disco3
-Closes #3
